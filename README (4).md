@@ -168,13 +168,4 @@ matplotlib / seaborn  # Visualisations
 
 ---
 
-## 👤 Auteur
 
-Réalisé dans le cadre du **TP 6 — Deep Learning / NLP**  
-Module : Apprentissage Automatique & Deep Learning
-
----
-
-## 📄 Licence
-
-Usage académique — libre de réutilisation pour l'enseignement.
